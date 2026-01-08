@@ -13,19 +13,25 @@ O programa permite cadastrar trabalhadores, adicionar contratos por hora e calcu
 Estrutura do projeto
 
 POO_Contratos/
-├─ src/
-│ ├─ Application/
-│ │ └─ Program.java
-│ ├─ entities/
-│ │ ├─ ContratoHora.java
-│ │ ├─ Departamento.java
-│ │ └─ Trabalhador.java
-│ └─ entities/enums/
-│ └─ WorkerLevel.java
-├─ .gitignore
-├─ .classpath
-├─ .project
-└─ .settings/
+
+src/
+
+Application/
+Program.java
+
+entities/
+ContratoHora.java
+Departamento.java
+Trabalhador.java
+
+entities/enums/
+WorkerLevel.java
+
+.gitignore
+.classpath
+.project
+
+.settings/
 
 Tecnologias utilizadas
 
